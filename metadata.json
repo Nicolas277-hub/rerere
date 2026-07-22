@@ -1,0 +1,6 @@
+{
+  "name": "RepFlow",
+  "description": "Aplicativo de treino premium, rápido, intuitivo e sem distrações. Abra, treine e salve sua evolução.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
